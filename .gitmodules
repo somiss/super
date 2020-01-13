@@ -1,0 +1,3 @@
+[submodule "sub/maven"]
+	path = sub/maven
+	url = ../maven
